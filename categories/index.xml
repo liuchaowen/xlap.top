@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on XLapTop - 为你的工作增效</title>
+    <link>https://xlap.top/categories/</link>
+    <description>Recent content in Categories on XLapTop - 为你的工作增效</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 12 Oct 2025 10:00:00 +0000</lastBuildDate>
+    <atom:link href="https://xlap.top/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>X站点</title>
+      <link>https://xlap.top/categories/x%E7%AB%99%E7%82%B9/</link>
+      <pubDate>Sun, 12 Oct 2025 10:00:00 +0000</pubDate>
+      <guid>https://xlap.top/categories/x%E7%AB%99%E7%82%B9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI站点</title>
+      <link>https://xlap.top/categories/ai%E7%AB%99%E7%82%B9/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://xlap.top/categories/ai%E7%AB%99%E7%82%B9/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

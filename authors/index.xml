@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on XLapTop - 为你的工作增效</title>
+    <link>https://xlap.top/authors/</link>
+    <description>Recent content in Authors on XLapTop - 为你的工作增效</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <atom:link href="https://xlap.top/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>John Doe</title>
+      <link>https://xlap.top/authors/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xlap.top/authors/john-doe/</guid>
+      <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sam Wilson</title>
+      <link>https://xlap.top/authors/sam-wilson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xlap.top/authors/sam-wilson/</guid>
+      <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>William Jacob</title>
+      <link>https://xlap.top/authors/william-jacob/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xlap.top/authors/william-jacob/</guid>
+      <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

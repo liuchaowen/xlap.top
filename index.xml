@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XLapTop - 为你的工作增效</title>
+    <link>https://xlap.top/</link>
+    <description>Recent content on XLapTop - 为你的工作增效</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 12 Oct 2025 10:00:00 +0000</lastBuildDate>
+    <atom:link href="https://xlap.top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>X API，解锁未来之门!</title>
+      <link>https://xlap.top/blog/xapi/</link>
+      <pubDate>Sun, 12 Oct 2025 10:00:00 +0000</pubDate>
+      <guid>https://xlap.top/blog/xapi/</guid>
+      <description>&lt;p&gt;把全球30+顶级模型装进同一插座：OpenAI、Claude、Gemini、Midjourney、阿里、百度、讯飞、腾讯、360、智谱、零一万物……全部OpenAI格式统一输出。价格腰斩：1.5元=1刀额度，0代码替换官方地址即可无限并发、24h上新。个人开发者、企业、翻译、写作、绘图、代码、客服、教育、导航站、镜像站、代理渠道，一站式搞定。&lt;/p&gt;&#xA;&lt;h5 id=&#34;一句口号背后的野心让ai像自来水一样随开随用&#34;&gt;一句口号背后的野心——让AI像自来水一样随开随用&lt;/h5&gt;&#xA;&lt;p&gt;2023年起，大模型进入“百模大战”，开发者却陷入“千锁围城”：官网封号、配额限速、价格倒挂、接口各异、发票难开、并发不足。XAPI团队把“解锁未来之门”当成工程问题而非营销噱头：把全球主流模型全部接入统一网关，输出端保持100%兼容OpenAI格式，输入端只改两行代码——base_url换成https://api.xlap.top，Authorization换成你的Key，即刻拥有未来生产力。&lt;/p&gt;&#xA;&lt;h5 id=&#34;价格屠刀15元1刀明码实价永不套路&#34;&gt;价格屠刀——1.5元=1刀，明码实价永不套路&lt;/h5&gt;&#xA;&lt;p&gt;市面常见“低价”陷阱：①充值后偷偷涨价；②用廉价下游渠道导致封号；③只有GPT-3.5便宜，其他模型贵得离谱。XAPI直接公示价目表：&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;所有OpenAI官方模型（含GPT-4-turbo、vision、dall-e-3、tts-1、embedding）统一1.5元=1刀额度；&lt;/li&gt;&#xA;&lt;li&gt;Claude3、Gemini、Moonshot与海外官网同价，仅做汇率换算；&lt;/li&gt;&#xA;&lt;li&gt;Midjourney分Relax/Fast/Turbo三档，比官方低8%；&lt;/li&gt;&#xA;&lt;li&gt;国产大模型按官方折后价×1.0，不加价。&#xA;支持支付宝、微信、对公转账，可开6%增值税专用发票，大额另议。&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h5 id=&#34;模型超市30品牌200版本24h上新&#34;&gt;模型超市——30+品牌、200+版本，24h上新&lt;/h5&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;OpenAI全家族：gpt-3.5-turbo-0125、gpt-4-turbo-2024-04-09、gpt-4-vision、dall-e-3、tts-1、whisper-1、text-embedding-3-large……官方发布后平均6小时完成接入。&lt;/li&gt;&#xA;&lt;li&gt;Claude3系列：Haiku、Sonnet、Opus，支持PDF长文档+1024K上下文。&lt;/li&gt;&#xA;&lt;li&gt;Gemini1.5 Pro/Flash，多模态原生支持。&lt;/li&gt;&#xA;&lt;li&gt;Midjourney V6 + Niji6：支持换脸、混图、Relax、Fast、Turbo，无限出图。&lt;/li&gt;&#xA;&lt;li&gt;国产六巨头：&#xA;&lt;ul&gt;&#xA;&lt;li&gt;阿里通义千问-Max/Plus&lt;/li&gt;&#xA;&lt;li&gt;百度ERNIE-4.0-8K/32K&lt;/li&gt;&#xA;&lt;li&gt;讯飞Spark3.5-130B&lt;/li&gt;&#xA;&lt;li&gt;腾讯混元-Pro&lt;/li&gt;&#xA;&lt;li&gt;360智脑4.0&lt;/li&gt;&#xA;&lt;li&gt;智谱GLM-4-0520&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;开源/垂直：Llama3-70B、Qwen1.5-110B、Zero-One万物、Kimi-128K……&#xA;所有模型名称与官方保持一致，无需记忆二次映射。&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h5 id=&#34;一行代码迁移0开发基础也能5分钟上线&#34;&gt;一行代码迁移——0开发基础也能5分钟上线&lt;/h5&gt;&#xA;&lt;p&gt;XAPI网关把下游不同格式全部洗成OpenAI风格，常见场景实测：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GhibliX生成吉卜力风格图</title>
+      <link>https://xlap.top/blog/post-2/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://xlap.top/blog/post-2/</guid>
+      <description>&lt;p&gt;专业AI图片风格转换平台，将生活照变成漫画插画，为创作者和粉丝打造童话体验。一款免费在线的吉卜力风格艺术生成器。无论是将照片转化为魔幻的吉卜力风格场景，还是将文字描述转化为艺术作品，GhibliX都能轻松实现。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nano Banana X 纳米香蕉的魅力</title>
+      <link>https://xlap.top/blog/post-3/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://xlap.top/blog/post-3/</guid>
+      <description>&lt;p&gt;以其卓越的角色与物件一致性、支援自然语言对话式编辑以及多张图片融合等功能闻名。 用户能够透过简单的文字指令，在保留人物或物件特徵的基础上进行换装、更换背景等图像编辑，并实现多图合成与深度逻辑推理。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sora2生成高质量视频</title>
+      <link>https://xlap.top/blog/post-4/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://xlap.top/blog/post-4/</guid>
+      <description>&lt;p&gt;用户只需录制一段自我视频，AI即可深度学习其外貌与声线，随后将真人形象无缝嵌入AI构建的任意奇幻场景，让每个人都能零门槛化身主演，轻松导演并出镜专属创意大片，瞬间实现电影级视觉幻想，引爆社交分享热潮。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>X API，解锁未来之门!</title>
+      <link>https://xlap.top/blog/post-1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://xlap.top/blog/post-1/</guid>
+      <description>&lt;p&gt;OpenAI、Claude、Gemini、Midjourney、阿里、百度、讯飞、腾讯、360、智谱、零一万物……全部OpenAI格式统一输出。个人开发者、企业、翻译、写作、绘图、代码、客服、教育、导航站、镜像站、代理渠道，一站式搞定。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Elements</title>
+      <link>https://xlap.top/elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xlap.top/elements/</guid>
+      <description>&lt;details class=&#34;table-of-content &#34;&gt;&#xA;  &lt;summary&gt;&#xA;    &#xA;      概要&#xA;    &#xA;  &lt;/summary&gt;&#xA;  &lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ol&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#heading-2&#34;&gt;Heading 2&lt;/a&gt;&#xA;      &lt;ol&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#heading-3&#34;&gt;Heading 3&lt;/a&gt;&#xA;          &lt;ol&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#heading-4&#34;&gt;Heading 4&lt;/a&gt;&#xA;              &lt;ol&gt;&#xA;                &lt;li&gt;&lt;a href=&#34;#heading-5&#34;&gt;Heading 5&lt;/a&gt;&lt;/li&gt;&#xA;              &lt;/ol&gt;&#xA;            &lt;/li&gt;&#xA;          &lt;/ol&gt;&#xA;        &lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#emphasis&#34;&gt;Emphasis&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#button&#34;&gt;Button&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#link&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#paragraph&#34;&gt;Paragraph&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#ordered-list&#34;&gt;Ordered List&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#unordered-list&#34;&gt;Unordered List&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#notice&#34;&gt;Notice&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#tab&#34;&gt;Tab&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#accordions&#34;&gt;Accordions&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#code-and-syntax-highlighting&#34;&gt;Code and Syntax Highlighting&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#blockquote&#34;&gt;Blockquote&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#tables&#34;&gt;Tables&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#image&#34;&gt;Image&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#gallery&#34;&gt;Gallery&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#slider&#34;&gt;Slider&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#youtube-video&#34;&gt;Youtube video&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#custom-video&#34;&gt;Custom video&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;/ol&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ol&gt;&#xA;&lt;/nav&gt;&#xA;&lt;/details&gt;&#xA;&#xA;&lt;p&gt;Here is an example of headings. You can use this heading by the following markdown rules. For example: use &lt;code&gt;#&lt;/code&gt; for heading 1 and use &lt;code&gt;######&lt;/code&gt; for heading 6.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>John Doe</title>
+      <link>https://xlap.top/authors/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xlap.top/authors/john-doe/</guid>
+      <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>privacy-policy</title>
+      <link>https://xlap.top/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xlap.top/privacy-policy/</guid>
+      <description>&lt;h4 id=&#34;贡献者责任&#34;&gt;贡献者责任&lt;/h4&gt;&#xA;&lt;p&gt;XLapTop网站（以下简称&amp;quot;我们&amp;quot;）重视所有用户和贡献者的隐私权。本隐私政策适用于通过我们网站提交内容的所有贡献者。作为内容贡献者，您需要了解并同意以下责任：&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;您提交的所有内容必须符合相关法律法规，不得包含侵犯他人知识产权、隐私权或其他合法权益的信息。&lt;/li&gt;&#xA;&lt;li&gt;您应对您提交的内容的准确性和合法性负责，我们有权但无义务对内容进行审核。&lt;/li&gt;&#xA;&lt;li&gt;您同意我们可以根据本隐私政策使用您提交的内容，包括但不限于展示、分享和推广。&lt;/li&gt;&#xA;&lt;li&gt;如您提交的内容违反法律法规或侵犯他人权益，您将承担全部法律责任。&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h4 id=&#34;个人信息收集&#34;&gt;个人信息收集&lt;/h4&gt;&#xA;&lt;p&gt;XLapTop在您使用我们的网站和服务时可能会收集以下类型的个人信息：&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;账户信息&lt;/strong&gt;：当您注册账户时，我们会收集您的用户名、电子邮件地址和密码。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;个人资料信息&lt;/strong&gt;：您可以选择提供您的姓名、联系方式、职业信息等个人资料。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;使用数据&lt;/strong&gt;：我们自动收集有关您如何使用我们网站的信息，包括访问时间、浏览页面、点击链接等。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;设备信息&lt;/strong&gt;：我们可能收集您使用的设备类型、操作系统、浏览器类型、IP地址等技术信息。&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cookie和类似技术&lt;/strong&gt;：我们使用Cookie和类似技术来收集和存储有关您使用我们网站的信息。&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;我们收集这些信息的目的是为了提供、维护和改进我们的服务，增强用户体验，以及进行必要的安全防护。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ready to build your next project with Hugo?</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sam Wilson</title>
+      <link>https://xlap.top/authors/sam-wilson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xlap.top/authors/sam-wilson/</guid>
+      <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>William Jacob</title>
+      <link>https://xlap.top/authors/william-jacob/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xlap.top/authors/william-jacob/</guid>
+      <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>站点列表</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

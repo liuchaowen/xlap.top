@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>最新资讯 on XLapTop - 为你的工作增效</title>
+    <link>https://xlap.top/blog/</link>
+    <description>Recent content in 最新资讯 on XLapTop - 为你的工作增效</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 12 Oct 2025 10:00:00 +0000</lastBuildDate>
+    <atom:link href="https://xlap.top/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>X API，解锁未来之门!</title>
+      <link>https://xlap.top/blog/xapi/</link>
+      <pubDate>Sun, 12 Oct 2025 10:00:00 +0000</pubDate>
+      <guid>https://xlap.top/blog/xapi/</guid>
+      <description>&lt;p&gt;把全球30+顶级模型装进同一插座：OpenAI、Claude、Gemini、Midjourney、阿里、百度、讯飞、腾讯、360、智谱、零一万物……全部OpenAI格式统一输出。价格腰斩：1.5元=1刀额度，0代码替换官方地址即可无限并发、24h上新。个人开发者、企业、翻译、写作、绘图、代码、客服、教育、导航站、镜像站、代理渠道，一站式搞定。&lt;/p&gt;&#xA;&lt;h5 id=&#34;一句口号背后的野心让ai像自来水一样随开随用&#34;&gt;一句口号背后的野心——让AI像自来水一样随开随用&lt;/h5&gt;&#xA;&lt;p&gt;2023年起，大模型进入“百模大战”，开发者却陷入“千锁围城”：官网封号、配额限速、价格倒挂、接口各异、发票难开、并发不足。XAPI团队把“解锁未来之门”当成工程问题而非营销噱头：把全球主流模型全部接入统一网关，输出端保持100%兼容OpenAI格式，输入端只改两行代码——base_url换成https://api.xlap.top，Authorization换成你的Key，即刻拥有未来生产力。&lt;/p&gt;&#xA;&lt;h5 id=&#34;价格屠刀15元1刀明码实价永不套路&#34;&gt;价格屠刀——1.5元=1刀，明码实价永不套路&lt;/h5&gt;&#xA;&lt;p&gt;市面常见“低价”陷阱：①充值后偷偷涨价；②用廉价下游渠道导致封号；③只有GPT-3.5便宜，其他模型贵得离谱。XAPI直接公示价目表：&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;所有OpenAI官方模型（含GPT-4-turbo、vision、dall-e-3、tts-1、embedding）统一1.5元=1刀额度；&lt;/li&gt;&#xA;&lt;li&gt;Claude3、Gemini、Moonshot与海外官网同价，仅做汇率换算；&lt;/li&gt;&#xA;&lt;li&gt;Midjourney分Relax/Fast/Turbo三档，比官方低8%；&lt;/li&gt;&#xA;&lt;li&gt;国产大模型按官方折后价×1.0，不加价。&#xA;支持支付宝、微信、对公转账，可开6%增值税专用发票，大额另议。&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h5 id=&#34;模型超市30品牌200版本24h上新&#34;&gt;模型超市——30+品牌、200+版本，24h上新&lt;/h5&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;OpenAI全家族：gpt-3.5-turbo-0125、gpt-4-turbo-2024-04-09、gpt-4-vision、dall-e-3、tts-1、whisper-1、text-embedding-3-large……官方发布后平均6小时完成接入。&lt;/li&gt;&#xA;&lt;li&gt;Claude3系列：Haiku、Sonnet、Opus，支持PDF长文档+1024K上下文。&lt;/li&gt;&#xA;&lt;li&gt;Gemini1.5 Pro/Flash，多模态原生支持。&lt;/li&gt;&#xA;&lt;li&gt;Midjourney V6 + Niji6：支持换脸、混图、Relax、Fast、Turbo，无限出图。&lt;/li&gt;&#xA;&lt;li&gt;国产六巨头：&#xA;&lt;ul&gt;&#xA;&lt;li&gt;阿里通义千问-Max/Plus&lt;/li&gt;&#xA;&lt;li&gt;百度ERNIE-4.0-8K/32K&lt;/li&gt;&#xA;&lt;li&gt;讯飞Spark3.5-130B&lt;/li&gt;&#xA;&lt;li&gt;腾讯混元-Pro&lt;/li&gt;&#xA;&lt;li&gt;360智脑4.0&lt;/li&gt;&#xA;&lt;li&gt;智谱GLM-4-0520&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;开源/垂直：Llama3-70B、Qwen1.5-110B、Zero-One万物、Kimi-128K……&#xA;所有模型名称与官方保持一致，无需记忆二次映射。&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h5 id=&#34;一行代码迁移0开发基础也能5分钟上线&#34;&gt;一行代码迁移——0开发基础也能5分钟上线&lt;/h5&gt;&#xA;&lt;p&gt;XAPI网关把下游不同格式全部洗成OpenAI风格，常见场景实测：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GhibliX生成吉卜力风格图</title>
+      <link>https://xlap.top/blog/post-2/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://xlap.top/blog/post-2/</guid>
+      <description>&lt;p&gt;专业AI图片风格转换平台，将生活照变成漫画插画，为创作者和粉丝打造童话体验。一款免费在线的吉卜力风格艺术生成器。无论是将照片转化为魔幻的吉卜力风格场景，还是将文字描述转化为艺术作品，GhibliX都能轻松实现。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nano Banana X 纳米香蕉的魅力</title>
+      <link>https://xlap.top/blog/post-3/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://xlap.top/blog/post-3/</guid>
+      <description>&lt;p&gt;以其卓越的角色与物件一致性、支援自然语言对话式编辑以及多张图片融合等功能闻名。 用户能够透过简单的文字指令，在保留人物或物件特徵的基础上进行换装、更换背景等图像编辑，并实现多图合成与深度逻辑推理。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sora2生成高质量视频</title>
+      <link>https://xlap.top/blog/post-4/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://xlap.top/blog/post-4/</guid>
+      <description>&lt;p&gt;用户只需录制一段自我视频，AI即可深度学习其外貌与声线，随后将真人形象无缝嵌入AI构建的任意奇幻场景，让每个人都能零门槛化身主演，轻松导演并出镜专属创意大片，瞬间实现电影级视觉幻想，引爆社交分享热潮。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>X API，解锁未来之门!</title>
+      <link>https://xlap.top/blog/post-1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>https://xlap.top/blog/post-1/</guid>
+      <description>&lt;p&gt;OpenAI、Claude、Gemini、Midjourney、阿里、百度、讯飞、腾讯、360、智谱、零一万物……全部OpenAI格式统一输出。个人开发者、企业、翻译、写作、绘图、代码、客服、教育、导航站、镜像站、代理渠道，一站式搞定。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
