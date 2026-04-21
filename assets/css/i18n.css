@@ -1,0 +1,137 @@
+/* 语言切换器样式 */
+.language-switcher {
+    position: fixed;
+    top: 1.5rem;
+    right: 1.5rem;
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.lang-label {
+    background: rgba(0, 0, 0, 0.6);
+    color: #ffffff;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: all 0.3s ease;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    display: flex;
+    align-items: center;
+}
+
+.lang-label:hover {
+    background: rgba(0, 0, 0, 0.8);
+    border-color: rgba(239, 146, 181, 0.3);
+}
+
+.lang-label::after {
+    content: '';
+    display: inline-block;
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #ef92b5;
+    margin-left: 0.5rem;
+    transition: transform 0.3s ease;
+}
+
+.lang-dropdown {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    margin-top: 0.5rem;
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: 4px;
+    overflow: hidden;
+    max-height: 0;
+    opacity: 0;
+    transition: all 0.3s ease;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    width: 150px;
+    visibility: hidden;
+}
+
+.lang-dropdown.show {
+    max-height: 300px;
+    opacity: 1;
+    visibility: visible;
+}
+
+.lang-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.lang-item {
+    padding: 0.7rem 1rem;
+    color: #e0e0e0;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-size: 0.9rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.lang-item:last-child {
+    border-bottom: none;
+}
+
+.lang-item:hover {
+    background: rgba(239, 146, 181, 0.2);
+    color: #ffffff;
+}
+
+.lang-item.active {
+    background: rgba(239, 146, 181, 0.3);
+    color: #ef92b5;
+    font-weight: 500;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    .language-switcher {
+        top: 1rem;
+        right: 1rem;
+    }
+
+    .lang-label {
+        padding: 0.4rem 0.8rem;
+        font-size: 0.8rem;
+    }
+
+    .lang-item {
+        padding: 0.6rem 0.8rem;
+        font-size: 0.8rem;
+    }
+
+    .lang-dropdown {
+        width: 130px;
+    }
+}
+
+@media (max-width: 480px) {
+    .language-switcher {
+        top: 0.8rem;
+        right: 0.8rem;
+    }
+
+    .lang-label {
+        padding: 0.3rem 0.6rem;
+        font-size: 0.7rem;
+    }
+
+    .lang-item {
+        padding: 0.5rem 0.6rem;
+        font-size: 0.7rem;
+    }
+
+    .lang-dropdown {
+        width: 110px;
+    }
+}
