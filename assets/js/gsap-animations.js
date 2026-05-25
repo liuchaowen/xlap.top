@@ -67,7 +67,6 @@
 
         // 音乐播放器弹出（不覆盖 translateX(-50%) 居中）
         tl.from(".music-player-inner", {
-            autoAlpha: 0,
             scale: 0.85,
             duration: 0.6,
             ease: "back.out(1.7)"
@@ -349,6 +348,12 @@
             gsap.killTweensOf("#bgVideo");
             gsap.killTweensOf(".quote");
             gsap.killTweensOf(".music-player-inner");
+
+            // 杀掉动画后恢复可见状态，防止 autoAlpha/opacity 卡在 0
+            gsap.set(".subtitle", { opacity: 1, y: 0 });
+            gsap.set(".memorial-text", { opacity: 1, y: 0 });
+            gsap.set(".quote", { opacity: 1, x: 0 });
+            gsap.set(".music-player-inner", { opacity: 1, scale: 1 });
         });
     }
 
