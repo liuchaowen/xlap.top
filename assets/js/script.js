@@ -378,13 +378,7 @@ class MusicPlayer {
 window.addEventListener('load', function () {
     console.log('纪念张国荣网站加载完成');
 
-    // 添加加载完成的淡入效果
-    document.body.style.opacity = '0';
-    document.body.style.transition = 'opacity 1s ease-in-out';
-
-    setTimeout(function () {
-        document.body.style.opacity = '1';
-    }, 100);
+    // GSAP 控制入场动画，不再需要手动 body opacity
 
     // 初始化音乐播放器
     const musicPlayer = new MusicPlayer();
