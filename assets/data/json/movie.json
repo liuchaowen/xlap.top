@@ -1,5 +1,0 @@
-{
-    "redirect": true,
-    "message": "Please use language-specific versions of this file.",
-    "script": "<script src='/assets/data/json/redirect.js'></script>"
-}
